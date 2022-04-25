@@ -1,3 +1,4 @@
 function hola(){
-    alert("seba y marco")
+    alert("coronis V30")
 }
+
